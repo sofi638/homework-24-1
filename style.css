@@ -1,0 +1,78 @@
+body {
+  justify-content: center;
+  align-items: center;
+  background-image: url(782657.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-position-y: 110%;
+  overflow: hidden;
+}
+
+.coc {
+  color: white;
+  margin-right: 800px;
+  padding: 20px;
+}
+
+.home {
+  justify-content: center;
+  align-items: end;
+  display: flex;
+  color: white;
+  gap: 50px;
+  margin-left: 910px;
+  margin-top: -55px;
+}
+
+.icons {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 50px;
+  margin-top: 300px;
+}
+
+.treading {
+  color: white;
+  margin-top: -335px;
+  padding: 100px;
+}
+.lorem {
+  width: 295px;
+}
+
+.change {
+  background-color: rgb(29, 138, 29);
+  color: white;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.gameplay {
+  color: white;
+  padding: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.home p:hover {
+  text-decoration: underline orange;
+  cursor: pointer;
+}
+
+.gameplay:hover {
+  cursor: pointer;
+}
+.change:hover {
+  cursor: pointer;
+}
+
+.icons:hover {
+  cursor: pointer;
+}
